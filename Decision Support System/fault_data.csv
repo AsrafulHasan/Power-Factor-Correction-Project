@@ -1,0 +1,13 @@
+BusClass,BreakerRatingkA,ScenarioName,FaultCurrentkA
+Source (650),31.5,Baseline,28.11
+Source (650),31.5,C1,27.93
+Source (650),31.5,C2,27.69
+Source (650),31.5,C3,27.76
+LV side (634),80.0,Baseline,65.54
+LV side (634),80.0,C1,65.65
+LV side (634),80.0,C2,66.01
+LV side (634),80.0,C3,66.09
+Other feeder buses,10.0,Baseline,7.591
+Other feeder buses,10.0,C1,7.544
+Other feeder buses,10.0,C2,7.470
+Other feeder buses,10.0,C3,7.496
